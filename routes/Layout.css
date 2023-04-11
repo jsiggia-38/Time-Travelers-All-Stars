@@ -1,0 +1,15 @@
+li {
+    list-style: none;
+    padding-left: 15px;
+}
+
+.nav-bar li {
+    display: inline-block;
+
+}
+
+.nav-bar {
+    text-align: center;
+    background-color: gray;
+    font-size: 20px;
+}

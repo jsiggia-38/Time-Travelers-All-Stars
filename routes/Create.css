@@ -1,0 +1,10 @@
+.character-form {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+label {
+    padding-left: 15px;
+}

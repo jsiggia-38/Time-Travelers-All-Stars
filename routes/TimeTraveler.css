@@ -1,0 +1,7 @@
+.details {
+    color: white;
+}
+
+.character-name, .character-origin, .character-time-machine {
+    text-align: center;
+}
